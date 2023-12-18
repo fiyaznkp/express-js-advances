@@ -1,0 +1,11 @@
+they are special notes attached thw web address(URL).
+they help server what the client want and respond accordingly
+
+req.params 
+
+it is used to extract route parametres from the url path
+
+
+req.query 
+
+used to extract query parametres from url path
